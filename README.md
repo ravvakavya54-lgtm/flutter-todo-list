@@ -55,7 +55,6 @@ This project covers the following 10 Flutter concepts:
 8. **Animations** – Implementing AnimatedOpacity and AnimatedSlide.
 9. **REST API Integration** – Fetching data from an API and displaying it in the UI.
 10. **Testing and Debugging** – Writing widget tests and checking application functionality.
-
 ## Screenshots
 
 ### Experiment 1 – Dart Basics
