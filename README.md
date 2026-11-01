@@ -58,34 +58,34 @@ This project covers the following 10 Flutter concepts:
 ## Screenshots
 
 ### Experiment 1 – Dart Basics
-![Experiment 1](screenshots/Experiment%201%20-%20Dart%20Basics.png)
+![Experiment 1](Screenshots/Experiment%201%20-%20Dart%20Basics.png)
 
 ### Experiment 2 – Layouts and Widgets
-![Experiment 2](screenshots/Experiment%202%20-%20Layouts%20and%20Widgets.png)
+![Experiment 2](Screenshots/Experiment%202%20-%20Layouts%20and%20Widgets.png)
 
 ### Experiment 3 – Mediaqueries and Responsive UI
-![Experiment 3](screenshots/Experiment%203%20-%20Mediaqueries%20and%20Responsive%20UI.png)
+![Experiment 3](Screenshots/Experiment%203%20-%20Mediaqueries%20and%20Responsive%20UI.png)
 
 ### Experiment 4 – Namedroutes and Navigation
-![Experiment 4](screenshots/Experiment%204%20-%20Namedroutes%20and%20Navigation.png)
+![Experiment 4](Screenshots/Experiment%204%20-%20Namedroutes%20and%20Navigation.png)
 
 ### Experiment 5 – Stateful and Stateless Widget and State Management
-![Experiment 5](screenshots/Experiment%205%20-%20Stateful%20and%20Stateless%20Widget%20and%20State%20Management.png)
+![Experiment 5](Screenshots/Experiment%205%20-%20Stateful%20and%20Stateless%20Widget%20and%20State%20Management.png)
 
 ### Experiment 6 – Custom Widgets
-![Experiment 6](screenshots/Experiment%206%20-%20Customwidgets.png)
+![Experiment 6](Screenshots/Experiment%206%20-%20Customwidgets.png)
 
 ### Experiment 7 – Form Design
-![Experiment 7](screenshots/Experiment%207%20-%20Formdesign.png)
+![Experiment 7](Screenshots/Experiment%207%20-%20Formdesign.png)
 
 ### Experiment 8 – Animations
-![Experiment 8](screenshots/Experiment%208%20-%20Animations.png)
+![Experiment 8](Screenshots/Experiment%208%20-%20Animations.png)
 
 ### Experiment 9 – API
-![Experiment 9](screenshots/Experiment%209%20-%20API.png)
+![Experiment 9](Screenshots/Experiment%209%20-%20API.png)
 
 ### Experiment 10 – Testing
-![Experiment 10](screenshots/Experiment%2010%20-%20Testing.png)
+![Experiment 10](Screenshots/Experiment%2010%20-%20Testing.png)
 ## Project Structure
 
 ```text
