@@ -58,35 +58,34 @@ This project covers the following 10 Flutter concepts:
 ## Screenshots
 
 ### Experiment 1 – Dart Basics
-![Experiment 1](<screenshots/Experiment 1 - Dart Basics.png>)
+![Experiment 1](screenshots/Experiment%201%20-%20Dart%20Basics.png)
 
-### Experiment 2 – Flutter Widgets and Layouts
-![Experiment 2](<screenshots/Experiment 2 - Layouts and Widgets.png>)
+### Experiment 2 – Layouts and Widgets
+![Experiment 2](screenshots/Experiment%202%20-%20Layouts%20and%20Widgets.png)
 
-### Experiment 3 – Responsive UI Design
-![Experiment 3](<screenshots/Experiment 3 - Mediaqueries and Responsive UI.png>)
+### Experiment 3 – Mediaqueries and Responsive UI
+![Experiment 3](screenshots/Experiment%203%20-%20Mediaqueries%20and%20Responsive%20UI.png)
 
-### Experiment 4 – Navigation
-![Experiment 4](<screenshots/Experiment 4 - Namedroutes and Navigation.png>)
+### Experiment 4 – Namedroutes and Navigation
+![Experiment 4](screenshots/Experiment%204%20-%20Namedroutes%20and%20Navigation.png)
 
-### Experiment 5 – State Management
-![Experiment 5](<screenshots/Experiment 5 - Stateful and Stateless Widget and State Management.png>)
+### Experiment 5 – Stateful and Stateless Widget and State Management
+![Experiment 5](screenshots/Experiment%205%20-%20Stateful%20and%20Stateless%20Widget%20and%20State%20Management.png)
 
-### Experiment 6 – Custom Widgets and Themes
-![Experiment 6](<screenshots/Experiment 6 - Customwidgets.png>)
+### Experiment 6 – Custom Widgets
+![Experiment 6](screenshots/Experiment%206%20-%20Customwidgets.png)
 
-### Experiment 7 – Forms and Validation
-![Experiment 7](<screenshots/Experiment 7 - Formdesign.png>)
+### Experiment 7 – Form Design
+![Experiment 7](screenshots/Experiment%207%20-%20Formdesign.png)
 
 ### Experiment 8 – Animations
-![Experiment 8](<screenshots/Experiment 8 - Animations.png>)
+![Experiment 8](screenshots/Experiment%208%20-%20Animations.png)
 
-### Experiment 9 – REST API Integration
-![Experiment 9](<screenshots/Experiment 9 - API.png>)
+### Experiment 9 – API
+![Experiment 9](screenshots/Experiment%209%20-%20API.png)
 
-### Experiment 10 – Testing and Debugging
-![Experiment 10](<screenshots/Experiment 10 - Testing.png>)
-
+### Experiment 10 – Testing
+![Experiment 10](screenshots/Experiment%2010%20-%20Testing.png)
 ## Project Structure
 
 ```text
@@ -95,7 +94,6 @@ todo_list/
 ├── lib/
 │   │
 │   ├── exp1/
-│   │   ├── hello.dart
 │   │   └── operations.dart
 │   │
 │   ├── exp2/
@@ -131,26 +129,22 @@ todo_list/
 │   │
 │   └── main.dart
 │
-├── test/
-│   └── exp10_test.dart
-│
-├── screenshots/
-│   ├── 00_home_screen.png
-│   ├── 01_exp1_dart_basics.png
-│   ├── 02_exp2_widgets_layouts.png
-│   ├── 03_exp3_responsive_ui.png
-│   ├── 04_exp4_navigation.png
-│   ├── 05_exp5_state_management.png
-│   ├── 06_exp6_themes_styling.png
-│   ├── 07_exp7_forms_validation.png
-│   ├── 08_exp8_animations.png
-│   ├── 09_exp9_rest_api.png
-│   └── 10_exp10_testing_debugging.png
+├── Screenshots/
+│   ├── Experiment 1 - Dart Basics.png
+│   ├── Experiment 2 - Layouts and Widgets.png
+│   ├── Experiment 3 - Mediaqueries and Responsive UI.png
+│   ├── Experiment 4 - Namedroutes and Navigation.png
+│   ├── Experiment 5 - Stateful and Stateless Widget and State Management.png
+│   ├── Experiment 6 - Customwidgets.png
+│   ├── Experiment 7 - Formdesign.png
+│   ├── Experiment 8 - Animations.png
+│   ├── Experiment 9 - API.png
+│   └── Experiment 10 - Testing.png
 │
 ├── pubspec.yaml
 ├── pubspec.lock
 └── README.md
-```
+'''
 
 ## Getting Started
 
